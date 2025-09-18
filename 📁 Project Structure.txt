@@ -1,0 +1,11 @@
+📁 Project Structure
+
+WAF_URL_Scanner_Project
+├── app.py
+├── templates
+│ └── index.html
+├── static
+│ └── style.css
+├── waf_log.txt
+├── README.md 
+└── WAF_Project_Report.pdf
